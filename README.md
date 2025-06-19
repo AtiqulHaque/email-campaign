@@ -1,6 +1,8 @@
 # **AWS based Scalable email campaign system**
 
-This is a schedule or non schedule campaign system.
+AWS-Based Scalable Email Campaign System
+A cloud-native solution designed to send personalized email campaigns at scale using AWS services like SES, Lambda, SQS, DynamoDB, and Step Functions.
+Built for high deliverability, real-time tracking, and cost-efficiency—perfect for marketing automation, user onboarding, and bulk notifications.
 
 Frontend react based application and backend nodejs application.
 
